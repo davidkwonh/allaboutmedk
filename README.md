@@ -1,6 +1,6 @@
 # ⚡️astro-bento-portfolio
 
-## A personal portfolio website made using `Astro`.
+## A personal portfolio website made using `Astro` for David Kwon. 
 
 
 ## Features
