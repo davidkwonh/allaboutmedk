@@ -15,12 +15,12 @@ export default defineConfig({
   site: "https://davidkwonh.gihub.io/",
   integrations: [
     sitemap(),
-    robotsTxt({
-      sitemap: [
-        "https://gianmarco.xyz/sitemap-index.xml",
-        "https://gianmarco.xyz/sitemap-0.xml",
-      ],
-    }),
+    // robotsTxt({
+    //   sitemap: [
+    //     "https://gianmarco.xyz/sitemap-index.xml",
+    //     "https://gianmarco.xyz/sitemap-0.xml",
+    //   ],
+    // }),
     solidJs(),
     UnoCSS({ injectReset: true }),
     icon(),
